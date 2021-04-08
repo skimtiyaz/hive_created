@@ -1,4 +1,4 @@
-# hive_created_1
+# hive_created
 
 A new Flutter project.
 
